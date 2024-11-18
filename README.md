@@ -788,6 +788,7 @@ Name           | Address
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
 [⛽️GasGod](https://tonviewer.com/0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba) | EQAtyIuO-2x0bp_imQhyOHVT5-Xx8K8tdqsGkED-BME9urj_
+[LERACOIN](https://tonviewer.com/0:26db52b381c13f286d99d1b93434b0373c664bd80ed2948fe6de2235695ee089) | EQAm21KzgcE_KG2Z0bk0NLA3PGZL2A7SlI_m3iI1aV7giccr
 
 
 ## Structure
